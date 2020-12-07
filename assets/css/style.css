@@ -10,6 +10,9 @@
     background-color: #008891;
 }
 
+.games {
+    max-height: 352px;
+}
 .sports {
     max-height: 150px;
 }
