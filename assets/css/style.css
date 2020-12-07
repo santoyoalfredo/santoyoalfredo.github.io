@@ -7,12 +7,17 @@
 }
 
 .section {
-    background-color: #008891;
+    background-color: #00587a;
+}
+
+.carousel-inner img {
+  margin: auto;
 }
 
 .games {
-    max-height: 352px;
+    max-height: 300px;
 }
+
 .sports {
     max-height: 150px;
 }
