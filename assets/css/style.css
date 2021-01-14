@@ -2,6 +2,15 @@ body {
     background-color: #e7e7de;
 }
 
+.btn {
+    background-color: #008891;
+    color: #FFFFFF;
+}
+
+.svg-icon {
+    width: 48px;
+    height: auto;
+}
 .navbar {
     background-color: #0f3057;
 }
@@ -19,6 +28,15 @@ body {
     background-color: #00587a;
     color: #FFFFFF;
     padding: 2em 5%;
+}
+
+.card {
+    color: #000000;
+    background-color: #e7e2de;
+}
+
+.card-body {
+    background-color: #e7e7de;
 }
 
 .carousel-inner {
