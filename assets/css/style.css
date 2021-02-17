@@ -7,10 +7,24 @@ body {
     color: #FFFFFF;
 }
 
+.profile-picture {
+    width: 128px;
+    height: auto;
+}
+
 .svg-icon {
     width: 48px;
     height: auto;
 }
+
+.social-icon {
+    color: #fff;
+    width: 32px;
+    height: 32px;
+    line-height: 0;
+    font-size: 2em;
+}
+
 .navbar {
     background-color: #0f3057;
 }
@@ -28,6 +42,10 @@ body {
     background-color: #00587a;
     color: #FFFFFF;
     padding: 2em 5%;
+}
+
+.project-card {
+    padding-bottom: 2em;
 }
 
 .card {
@@ -52,7 +70,7 @@ body {
 }
 
 .sports {
-    padding: 2em 0;
+    padding: 2em 5%;
 }
 .sports-img {
     max-height: 150px;
